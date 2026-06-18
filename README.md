@@ -12,5 +12,5 @@
 # Wykorzystane dane pochodzą ze strony https://stat.gov.pl/obszary-tematyczne/zdrowie/zdrowie/zachorowania-na-niektore-choroby-zakazne,20,1.html
 
 #  O autorze
-**Piotr Wiecki**
+**Piotr Wiecki**  
 Obecnie rozwijam swoje kompetencje na styku matematyki, statystyki i programowania. Interesuję się obszarem Data Science, analizą danych oraz sztuczną inteligencją.
