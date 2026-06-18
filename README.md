@@ -9,7 +9,7 @@
 * **Język: Python** 
 * **Biblioteki: numpy, pandas, scipy, math, matplotlib**
 
-# Wykorzystane dane pochodzą ze strony https://stat.gov.pl/obszary-tematyczne/zdrowie/zdrowie/zachorowania-na-niektore-choroby-zakazne,20,1.html
+Wykorzystane dane pochodzą ze strony https://stat.gov.pl/obszary-tematyczne/zdrowie/zdrowie/zachorowania-na-niektore-choroby-zakazne,20,1.html
 
 #  O autorze
 **Piotr Wiecki**  
