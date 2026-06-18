@@ -3,7 +3,7 @@
 ## Prognozowanie rozwoju gruźlicy i kiły w Polsce
 
 # Cel Projektu
- Celem było praktyczne wykorzystanie wiedzy z przedmiotu "Analizy epidemiologiczne i prognozy medyczne" w praktyce oraz implementacja odpowiednich modeli epidemiologicznych.
+ Celem było wykorzystanie wiedzy z przedmiotu "Analizy epidemiologiczne i prognozy medyczne" w praktyce oraz implementacja odpowiednich modeli epidemiologicznych, korzystających z teorii równań różniczkowych.
 
 # Wykorzystane Technologie i Narzędzia
 * **Język: Python** 
