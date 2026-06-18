@@ -13,4 +13,4 @@
 
 #  O autorze
 **Piotr Wiecki**  
-Obecnie rozwijam swoje kompetencje na styku matematyki, statystyki i programowania. Interesuję się obszarem Data Science, analizą danych oraz sztuczną inteligencją.
+Obecnie rozwijam swoje kompetencje na styku matematyki i programowania. Interesuję się obszarem Data Science, analizą danych oraz sztuczną inteligencją.
